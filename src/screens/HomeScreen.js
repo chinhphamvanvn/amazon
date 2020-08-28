@@ -17,10 +17,10 @@ function HomeScreen(props) {
 
     return (<div>
         {loading ? (
-        <div>Loading...</div>
-      ) : error ? (
-        <div>{error}</div>
-      ) : (
+            <div>Loading...</div>
+        ) : error ? (
+            <div>{error}</div>
+        ) : (
     <ul className="products">
         {
             products.map(product =>
