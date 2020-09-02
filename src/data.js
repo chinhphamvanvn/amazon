@@ -8,7 +8,8 @@ export default {
             price: 60,
             brand: 'Nike',
             rating: 4.5,
-            numReviews: 10
+            numReviews: 10,
+            countInStock: 6
         },
         {
             _id: '2',
@@ -18,7 +19,8 @@ export default {
             price: 20,
             brand: 'Azoda',
             rating: 4.5,
-            numReviews: 10
+            numReviews: 10,
+            countInStock: 6
         },
         {
             _id: '3',
@@ -28,7 +30,8 @@ export default {
             price: 10,
             brand: 'Nike',
             rating: 3,
-            numReviews: 5
+            numReviews: 5,
+            countInStock: 6
         },
         {
             _id: '4',
@@ -38,7 +41,8 @@ export default {
             price:30,
             brand: 'Nike',
             rating: 4,
-            numReviews: 6
+            numReviews: 6,
+            countInStock: 6
         },
         {
             _id: '5',
@@ -48,7 +52,8 @@ export default {
             price: 20,
             brand: 'Nike',
             rating: 2,
-            numReviews: 10
+            numReviews: 10,
+            countInStock: 6
         },
         {
             _id: '6',
@@ -58,7 +63,8 @@ export default {
             price: 100,
             brand: 'Nike',
             rating: 5,
-            numReviews: 18
+            numReviews: 18,
+            countInStock: 6
         }
     ]
 }
